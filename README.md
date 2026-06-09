@@ -1,5 +1,7 @@
 Here, you'll find posts on recent updates to what is changing on [langapp.ch](langapp.ch).
 
+If you have any feedback, questions or bugs to report, please send them to admin*(at)*langapp.ch (replace the *(at)* with @). 
+
 - ### *09.06.2026*
     *Launching a little blog to write about updates*
 
