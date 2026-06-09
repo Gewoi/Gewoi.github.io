@@ -1,5 +1,3 @@
-# Updates for [langapp.ch](langapp.ch)
-
 Here, you'll find posts on recent updates to what is changing on [langapp.ch](langapp.ch).
 
 - ### *09.06.2026*
