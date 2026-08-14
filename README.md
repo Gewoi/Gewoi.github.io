@@ -2,6 +2,9 @@ Here, you'll find posts on recent updates to what is changing on [langapp.ch](la
 
 If you have any feedback, questions or bugs to report, please send them to admin*(at)*langapp.ch (replace the *(at)* with @). 
 
+- ## *14.08.2026*
+  Just a quick one: I managed to finish another lesson today, and I wanted to put that in as soon as possible too.
+
 - ### *13.08.2026*
   *Two new lessons*
   Hello there! I took a bit of time and added two new lessons. The next block of lessons will be about hobbies. I sometimes struggle a bit with the order and I'm not sure what to put next, so if you have any ideas on what additional lessons would be crucial to have, please send me an email at the above address! 
