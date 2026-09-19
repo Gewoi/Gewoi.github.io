@@ -2,6 +2,9 @@ Here, you'll find posts on recent updates to what is changing on [langapp.ch](la
 
 If you have any feedback, questions or bugs to report, please send them to admin*(at)*langapp.ch (replace the *(at)* with @). 
 
+- ### *19.09.2026*
+  I managed to write three new lessons, mostly focused on hobbies, sports and going out. The third one proved to be a bit complicated, but I hope it should be insightful. Enjoy!
+
 - ### *14.08.2026*
   Just a quick one: I managed to finish another lesson today, and I wanted to put that in as soon as possible too.
 
